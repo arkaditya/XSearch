@@ -16,6 +16,7 @@
 ![Lucene Architecture](/images/'Lucene Arch'.png)
 
 ## Experiment Results
+![](images/Lucene%20Arch.png)
 ![Throughput vs FileCount](images/'Throughput Files plot'.png?raw=true "Throughput v/s Files")
 
 ![Throughput vs RAMBuffer](images/'Throughput RAMBuffer plot'.png)
