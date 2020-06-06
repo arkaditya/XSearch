@@ -15,6 +15,9 @@
 #### Lucene Architecture
 ![Lucene Architecture](/images/LuceneArch.png)
 
+#### Filesystem Metadata format
+![FileSystem Metadata](/images/Metadata.png)
+
 ## Experiment Results
 ![Throughput vs FileCount](/images/ThroughputVSFiles.png)
 ![Throughput vs RAMBuffer](/images/ThroughpuVSRAMBuffer.png)
