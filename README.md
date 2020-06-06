@@ -13,11 +13,15 @@
 4. Compare results from Lucene and Lucene Plus plus. 
 
 #### Lucene Architecture
-![Lucene Architecture](/images/Lucene Arch.png)(url)
+![Lucene Architecture](/images/'Lucene Arch'.png)
 
 ## Experiment Results
-![Throughput vs FileCount](images/Throughput Files plot.png)
-![Throughput vs RAMBuffer](images/Throughput RAMBuffer plot.png)
-![Throughput vs ThreadCount](images/'Throughput Threads plot.png)
-![Skylake vs Haswell compute node](images/skylake vs haswell node.png)
-![Textdata vs Metadata](images/textdata vs metadata.png)
+![Throughput vs FileCount](images/'Throughput Files plot'.png)
+
+![Throughput vs RAMBuffer](images/'Throughput RAMBuffer plot'.png)
+
+![Throughput vs ThreadCount](images/'Throughput Threads plot'.png)
+
+![Skylake vs Haswell compute node](images/'skylake vs haswell node'.png)
+
+![Textdata vs Metadata](images/'textdata vs metadata'.png)
