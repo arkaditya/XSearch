@@ -16,8 +16,8 @@
 ![Lucene Architecture](/images/Lucene Arch.png)(url)
 
 ## Experiment Results
-![Throughput vs FileCount](/images/Throughput Files plot.png)(url)
-![Throughput vs RAMBuffer](/images/Throughput RAMBuffer plot.png)(url)
-![Throughput vs ThreadCount](/images/'Throughput Threads plot.png)(url)
-![Skylake vs Haswell compute node](/images/skylake vs haswell node.png)(url)
-![Textdata vs Metadata](/images/textdata vs metadata.png)(url)
+![Throughput vs FileCount](images/Throughput Files plot.png)
+![Throughput vs RAMBuffer](images/Throughput RAMBuffer plot.png)
+![Throughput vs ThreadCount](images/'Throughput Threads plot.png)
+![Skylake vs Haswell compute node](images/skylake vs haswell node.png)
+![Textdata vs Metadata](images/textdata vs metadata.png)
