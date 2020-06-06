@@ -1,0 +1,5 @@
+mkdir -p bin
+g++ -Ilib/luceneplusplus-3.0.7/include/lucene++ -Llib/luceneplusplus-3.0.7/lib -std=gnu++11 -g -o bin/XSearchData.exe \
+	src/XSearchNew.cpp -lpthread -lboost_system -llucene++ -llucene++-contrib
+g++ -Ilib/luceneplusplus-3.0.7/include/lucene++ -Llib/luceneplusplus-3.0.7/lib -std=gnu++11 -g -o bin/XSearchMeta.exe \
+	src/XSearchMeta.cpp -lpthread -lboost_system -llucene++ -llucene++-contrib

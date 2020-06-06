@@ -1,0 +1,12 @@
+prefix=/home/cc/XSearch/xsearch/ir-libraries/luceneplus/lib/luceneplusplus-3.0.7
+exec_prefix=${prefix}/bin
+libdir=/home/cc/XSearch/xsearch/ir-libraries/luceneplus/lib/luceneplusplus-3.0.7/lib
+includedir=${prefix}/include/lucene++
+lib=lucene++
+
+Name: liblucene++
+Description: Lucene++ - a C++ search engine, ported from the popular Apache Lucene
+Version: 3.0.7
+Libs: -L/home/cc/XSearch/xsearch/ir-libraries/luceneplus/lib/luceneplusplus-3.0.7/lib -l${lib}
+Cflags: -I${includedir}
+
